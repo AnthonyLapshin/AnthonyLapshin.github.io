@@ -74,19 +74,7 @@
     },
     "splashScreen": {
         "displayRatio": 1,
-        "totalTime": 2000,
-        "logo": {
-            "type": "none"
-        },
-        "background": {
-            "type": "default",
-            "color": {
-                "x": 0.01568627450980392,
-                "y": 0.03529411764705882,
-                "z": 0.0392156862745098,
-                "w": 0.00392156862745098
-            }
-        },
+        "totalTime": 0,
         "watermarkLocation": "default",
         "autoFit": true
     },
